@@ -1,11 +1,7 @@
+node_modules/
+dist/
+coverage/
 data/
 reports/
 .env
 *.db
-__pycache__/
-.pytest_cache/
-*.pyc
-*.pyo
-.venv/
-dist/
-*.egg-info/
